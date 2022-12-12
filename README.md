@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Andrew Nwanakwaugwu ( @Andrewsalford)
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🎓 I studied Data Science in my MSc. and Comp
+- 🌱 I’m currently learning how to interface Speech Synthesis in Mirrored Word (Digital Twins) Projects in the Education, Tax and Health sector.
+- 💞️ I’m looking to collaborate on live and Research AI/Data Science Projects.
+- 📫 E-Mail me: andrew.nwanakwaugwu@gmail.com
